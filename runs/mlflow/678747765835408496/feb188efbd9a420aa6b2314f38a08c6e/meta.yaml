@@ -1,0 +1,14 @@
+artifact_uri: /Users/mohitrohda/skill/Sign_language_detection/runs/mlflow/678747765835408496/feb188efbd9a420aa6b2314f38a08c6e/artifacts
+end_time: 1790539597801
+entry_point_name: ''
+experiment_id: '678747765835408496'
+lifecycle_stage: active
+run_id: feb188efbd9a420aa6b2314f38a08c6e
+run_name: train-2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1790539076597
+status: 3
+tags: []
+user_id: mohitrohda
