@@ -10,7 +10,7 @@ st.title("🤟 Sign Language Detection")
 
 @st.cache_resource
 def load_model():
-    return YOLO("runs/detect/train/weights/best.pt")
+    return YOLO("runs/detect/train-4/weights/best.pt")
 
 model = load_model()
 
